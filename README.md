@@ -20,6 +20,7 @@ I work at the intersection of **technology, design, and strategy**, helping turn
 - **CSS**
 - **JS**
 - **REACT.JS**
+- **DJANGO**
 - **Git & GitHub**
 - **VS Code**
 
