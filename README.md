@@ -15,6 +15,7 @@ I work at the intersection of **technology, design, and strategy**, helping turn
 - Expanding my portfolio with real-world use cases
 
 ### 🛠 Tools & Technologies
+- **C++**
 - **Python**
 - **HTML**
 - **CSS**
